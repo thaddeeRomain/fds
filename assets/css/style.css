@@ -159,7 +159,8 @@ body {
 
 .jumbo-content h1 {
   font-family: Roboto;
-  font-size: 20px;
+  font-size: 60px;
+	font-weight: 700;
   color: white;
 }
 
