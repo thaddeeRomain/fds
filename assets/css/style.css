@@ -82,7 +82,7 @@ body {
   font-family: Poppins;
 	font-weight: 500;
 	text-transform: uppercase;
-	padding-top: 25px;
+	padding-top: 10px;
 	letter-spacing: 1px;
 	height: 80px;
 }
@@ -105,8 +105,11 @@ body {
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
 	background-size: cover;
-	height: 100%;
-	width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  height: calc(100vh - 90px);
+  width: 100%;
 }
 
 .jumbo h1 {
