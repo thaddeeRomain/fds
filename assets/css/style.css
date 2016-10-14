@@ -49,10 +49,51 @@ table {
 	border-spacing: 0;
 }
 
-
 /* --- Common Styles ---*/
 
 h1 {
 	font-family: Poppins;
   font-size: 16px;
+}
+
+/* --- Helper Classes ---*/
+
+html * {
+	text-rendering: optimizeLegibility !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+*, *:after, *:before {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* --- Navbar --- */
+
+.navbar {
+	font-size: 14px;
+  font-family: Poppins;
+	font-weight: 500;
+	text-transform: uppercase;
+	padding-top: 25px;
+	letter-spacing: 1px;
+	height: 80px;
+}
+
+.navbar-default {
+  transition: all 0.6s ease;
+	border-color: transparent;
+  background-color: transparent;
+}
+
+.navbar-default .navbar-toggle {
+  border-radius: 0px;
+  border-color: transparent;
 }
