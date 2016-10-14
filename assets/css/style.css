@@ -84,6 +84,28 @@ body {
 	margin-left: 0;
 }
 
+/* --- Button --- */
+.btn-action {
+ font-family: Roboto;
+ background-color: #5924EC;
+ border: 2px solid #5924EC;
+ border-radius: 0;
+ color: #FFFFFF;
+ font-size: 12px;
+ font-weight: 400;
+ height: 38px;
+ letter-spacing: 2px;
+ line-height: 3;
+ padding: 0 21px;
+ text-transform: uppercase;
+ outline: none;
+ -webkit-transition: 200ms;
+ -moz-transition: 200ms;
+ -o-transition: 200ms;
+ transition: 200ms;
+}
+
+
 /* --- Navbar --- */
 
 .navbar {
@@ -193,7 +215,7 @@ body {
 
 .services-head p {
 	font-family: Roboto;
-	font-size: 14px;
+	font-size: 20px;
 	color: #444444;
 	font-weight: 400;
 	line-height: 1.4;
