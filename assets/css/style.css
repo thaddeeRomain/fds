@@ -75,6 +75,15 @@ body {
   box-sizing: border-box;
 }
 
+.no-padding {
+	padding: 0;
+}
+
+.no-marging {
+	margin-right: 0;
+	margin-left: 0;
+}
+
 /* --- Navbar --- */
 
 .navbar {
@@ -155,5 +164,39 @@ body {
 }
 
 .jumbo-content h2 {
-  color: #A3320C;
+  color: #DB9500;
+  font-size: 30px;
+  font-family: Roboto;
+  padding: 30px;
+}
+
+/* --- Services --- */
+
+.services {
+	background: #FFFFFF;
+}
+
+.services-head {
+	padding-top: 100px;
+	padding-bottom: 75px;
+}
+
+.service-head h1 {
+	font-family: Roboto;
+	font-size: 24px;
+	color: #111111;
+	font-weight: 600;
+	letter-spacing: 0;
+	line-height: 1.4;
+	margin-bottom: 10px;
+}
+
+.services-head p {
+	font-family: Roboto;
+	font-size: 14px;
+	color: #444444;
+	font-weight: 400;
+	letter-spacing: 1px;
+	line-height: 1.4;
+	margin-top: 0px;
 }
