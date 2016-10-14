@@ -110,6 +110,10 @@ body {
   background-color: #FFFFFF;
 }
 
+.navbar-default .navbar-brand {
+    color: #FFFFFF;
+}
+
 .navbar-default .navbar-brand .navbar-toggle .collapsed {
     padding: 4px 6px;
     font-size: 16px;
@@ -135,13 +139,17 @@ body {
   -o-background-size: cover;
   height: 100vh;
   width: 100%;
-}
-
-.jumbo h1 {
-  font-family: Roboto;
-  font-size: 20px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
 }
 
 .jumbo-content {
   flex:0 1 auto;
+}
+
+.jumbo-content h1 {
+  font-family: Roboto;
+  font-size: 20px;
+  color: white;
 }
