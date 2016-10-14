@@ -87,8 +87,8 @@ body {
 /* --- Button --- */
 .btn-action {
  font-family: Roboto;
- background-color: #5924EC;
- border: 2px solid #5924EC;
+ background-color: #DB9500;
+ border: 2px solid #DB9500;
  border-radius: 0;
  color: #FFFFFF;
  font-size: 12px;
@@ -103,6 +103,13 @@ body {
  -moz-transition: 200ms;
  -o-transition: 200ms;
  transition: 200ms;
+}
+
+.btn-action:hover, .btn-action:focus, .btn-action:active, .btn-action:active:focus {
+	background: transparent;
+	outline: none;
+	color: #5924EC;
+	border-color: #5924EC;
 }
 
 
