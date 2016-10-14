@@ -97,3 +97,19 @@ body {
   border-radius: 0px;
   border-color: transparent;
 }
+
+/* --- Main --- */
+
+.jumbo {
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.1)), url("../images/suit.jpg");
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100%;
+	width: 100%;
+}
+
+.jumbo h1 {
+  font-family: Roboto;
+  font-size: 20px;
+}
