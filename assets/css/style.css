@@ -179,15 +179,16 @@ body {
    color: #000;
 }
 
+.affix .nav > li > a:hover {
+	color: #DB9500;
+	border: none;
+}
+
 .affix.navbar .navbar-brand {
 	color: #000;
 }
 
-.affix.navbar .nav > li > a:hover,
-{
-	color: #DB9500;
-	border: none;
-}
+
 
 /* --- Main --- */
 
