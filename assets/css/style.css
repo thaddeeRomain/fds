@@ -224,18 +224,27 @@ body {
   padding: 30px;
 }
 
-/* --- Services --- */
+/* --- Consulting --- */
 
-.services {
+.consulting {
 	background: #FFFFFF;
 }
 
-.services-head {
+.consulting-head {
 	padding-top: 100px;
 	padding-bottom: 75px;
 }
 
-.services-head h1 {
+.consulting-head h1 {
+	font-family: Roboto;
+	font-size: 30px;
+	color: #DB9500;
+	font-weight: 700;
+	line-height: 1.4;
+	margin-bottom: 10px;
+}
+
+.consulting-head h2 {
 	font-family: Roboto;
 	font-size: 24px;
 	color: #111111;
@@ -244,7 +253,7 @@ body {
 	margin-bottom: 10px;
 }
 
-.services-head p {
+.consulting-head p {
 	font-family: Roboto;
 	font-size: 20px;
 	color: #444444;
@@ -252,6 +261,36 @@ body {
 	line-height: 1.4;
 	margin-top: 0px;
 }
+
+/* --- Digital --- */
+
+.consulting {
+	background: #FFFFFF;
+}
+
+.consulting-head {
+	padding-top: 100px;
+	padding-bottom: 75px;
+}
+
+.consulting-head h1 {
+	font-family: Roboto;
+	font-size: 30px;
+	color: #DB9500;
+	font-weight: 600;
+	line-height: 1.4;
+	margin-bottom: 10px;
+}
+
+.consulting-head p {
+	font-family: Roboto;
+	font-size: 20px;
+	color: #444444;
+	font-weight: 400;
+	line-height: 1.4;
+	margin-top: 0px;
+}
+
 
 /* --- Us --- */
 
