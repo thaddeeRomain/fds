@@ -235,16 +235,19 @@ body {
 	padding-bottom: 75px;
 }
 
-.consulting-head h1 {
+.consulting-head h2 {
 	font-family: Roboto;
-	font-size: 30px;
-	color: #DB9500;
+	font-size: 40px;
+	color: #111111;
 	font-weight: 700;
 	line-height: 1.4;
 	margin-bottom: 10px;
+	display: inline-block;
+	border-bottom: 3px solid rgba(219, 149, 0, 1);
+	box-shadow: inset 0 -8px 0 rgba(219, 149, 0, 1);
 }
 
-.consulting-head h2 {
+.consulting-head h3 {
 	font-family: Roboto;
 	font-size: 24px;
 	color: #111111;
@@ -273,7 +276,7 @@ body {
 	padding-bottom: 75px;
 }
 
-.consulting-head h1 {
+.consulting-head h2 {
 	font-family: Roboto;
 	font-size: 30px;
 	color: #DB9500;
