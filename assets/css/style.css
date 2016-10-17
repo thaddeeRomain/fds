@@ -148,7 +148,8 @@ body {
   background-color: #FFFFFF;
 }
 
-.navbar-default .navbar-brand {
+.navbar-default .navbar-brand,
+.navbar-default .navbar-brand:hover {
     color: #FFFFFF;
 }
 
@@ -163,24 +164,29 @@ body {
 }
 
 .navbar-default .navbar-nav > li > a:hover {
-  color: #444444;
+	color: #FFFFFF;
+  border-bottom: 2px solid #DB9500;
 }
 
 .navbar.affix {
     position: fixed;
     top:0;
     width:100%;
-    background-color: rgba(255,255,255,1); 
+    background-color: rgba(255,255,255,1);
 }
 
 .affix .nav > li > a {
    color: #000;
 }
 
+.affix.navbar .navbar-brand {
+	color: #000;
+}
+
 .affix.navbar .nav > li > a:hover,
-.affix.navbar .navbar-brand
 {
-   color: #000;
+	color: #DB9500;
+	border: none;
 }
 
 /* --- Main --- */
