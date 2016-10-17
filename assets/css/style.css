@@ -122,7 +122,7 @@ body {
 	text-transform: uppercase;
 	padding-top: 10px;
 	letter-spacing: 1px;
-	height: 80px;
+	height: 70px;
 }
 
 .navbar-default {
@@ -171,6 +171,16 @@ body {
     top:0;
     width:100%;
     background-color: rgba(255,255,255,0.5); <-- Replace with the color you want
+}
+
+.affix .nav > li > a {
+   color: #000;
+}
+
+.affix.navbar .nav > li > a:hover,
+.affix.navbar .navbar-brand
+{
+   color: #000;
 }
 
 /* --- Main --- */
