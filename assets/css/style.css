@@ -183,7 +183,7 @@ body {
 	color: #000;
 }
 
-.affix.navbar .nav > li > a:hover,
+.affix .nav > li > a:hover,
 {
 	color: #DB9500;
 	border: none;
