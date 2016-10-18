@@ -96,6 +96,10 @@ body {
 
 }
 
+.circle {
+	border-radius: 50%;
+}
+
 /* --- Button --- */
 
 .btn-action {
@@ -393,5 +397,17 @@ body {
 }
 
 .us-description-photo {
+	padding-top: 60px;
+	padding-bottom: 20px;
+}
+
+.us-description-name {
+	font-size: 30px;
+	font-family: Roboto;
+	font-weight: 700;
+}
+
+.us-description-bio {
+	font-family: Roboto;
 
 }
