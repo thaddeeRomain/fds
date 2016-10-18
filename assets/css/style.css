@@ -412,3 +412,13 @@ body {
 	line-height: 1.3;
 
 }
+
+/* --- Footer --- */
+
+.footer {
+	background-color: #444444;
+	padding-top: 50px;
+	padding-bottom: 20px;
+	color: white;
+	font-family: Roboto;
+}
