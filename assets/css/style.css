@@ -84,16 +84,16 @@ body {
 	margin-left: 0;
 }
 
-.yellow {
-	color: #DB9500;
+.link {
+	padding: 20px 0px;
 }
 
 .link a {
-	color:#DB9500;
+	color: #DB9500;
 	line-height: 1.3;
-	color: #444444;
 	font-family: Roboto;
 	text-align: center;
+
 }
 
 /* --- Button --- */
