@@ -245,7 +245,7 @@ body {
 	color: #111111;
 	font-weight: 700;
 	line-height: 1.4;
-	margin-bottom: 20px;
+	margin-bottom: 30px;
 	display: inline-block;
 	border-bottom: 3px solid rgba(219, 149, 0, 1);
 }
@@ -274,6 +274,10 @@ body {
 .consulting-description h1 {
 	margin-bottom: 20px;
 	margin-top: 20px;
+	font-family: Roboto;
+	font-size: 23px;
+	font-weight: 500;
+	line-height: 1.2;
 }
 
 /* --- Digital --- */
