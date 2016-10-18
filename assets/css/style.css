@@ -232,6 +232,7 @@ body {
 
 .consulting {
 	background: #FFFFFF;
+	padding-bottom: 70px;
 }
 
 .consulting-head {
@@ -291,7 +292,8 @@ body {
 /* --- Digital --- */
 
 .digital {
-	background: #FFFFFF;
+	background: #F3F3F3;
+	padding-bottom: 70px;
 }
 
 .digital-head {
