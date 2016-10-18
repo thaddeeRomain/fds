@@ -410,6 +410,8 @@ body {
 .us-description-bio {
 	font-family: Roboto;
 	line-height: 1.3;
+	padding-top: 20px;
+	text-align: justify;
 
 }
 
