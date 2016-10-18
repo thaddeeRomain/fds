@@ -363,10 +363,13 @@ body {
 
 .us-head h2 {
 	font-family: Roboto;
-	font-size: 24px;
+	font-size: 40px;
 	color: #111111;
+	font-weight: 700;
 	line-height: 1.4;
-	margin-bottom: 10px;
+	margin-bottom: 30px;
+	display: inline-block;
+	border-bottom: 3px solid rgba(219, 149, 0, 1);
 }
 
 .us-head p {
