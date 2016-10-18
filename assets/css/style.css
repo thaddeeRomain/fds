@@ -352,5 +352,22 @@ body {
 /* --- Us --- */
 
 .us {
-	background: #F3F3F3;
+	background: #FFFFFF;
+}
+
+.us-head h3 {
+	font-family: Roboto;
+	font-size: 24px;
+	color: #111111;
+	line-height: 1.4;
+	margin-bottom: 10px;
+}
+
+.us-head p {
+	font-family: Roboto;
+	font-size: 20px;
+	color: #444444;
+	font-weight: 400;
+	line-height: 1.4;
+	margin-top: 0px;
 }
