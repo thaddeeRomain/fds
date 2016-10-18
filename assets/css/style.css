@@ -84,7 +84,12 @@ body {
 	margin-left: 0;
 }
 
+.yellow {
+	color: #DB9500;
+}
+
 /* --- Button --- */
+
 .btn-action {
  font-family: Roboto;
  background-color: #DB9500;
@@ -380,5 +385,5 @@ body {
 }
 
 .us-description-photo {
-	
+
 }
