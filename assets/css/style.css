@@ -618,3 +618,7 @@ label {
 .pro-dev-description p > span {
 	color:#DB9500;
 }
+
+.pro-dev-description-list p {
+	margin-bottom: 10px;
+}
