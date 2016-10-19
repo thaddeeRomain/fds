@@ -630,7 +630,7 @@ left: -29px;
 content: '';
 width: 21px;
 height: 15px;
-background-image: url(./images/quote.png);
+background-image: url(images/quote.png);
 background-repeat: none;
 background-size: cover;
 }
