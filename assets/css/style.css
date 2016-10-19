@@ -417,6 +417,7 @@ body {
 	font-family: Roboto;
 	font-weight: 400;
 	padding-top: 10px;
+	display: block;
 }
 
 .us-description-bio {
