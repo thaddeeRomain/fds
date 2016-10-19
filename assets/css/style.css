@@ -396,6 +396,11 @@ body {
 	text-align: justify;
 }
 
+.us-head p > strong {
+	font-weight: bold;
+}
+
+
 .us-description-photo {
 	padding-top: 60px;
 	padding-bottom: 20px;
