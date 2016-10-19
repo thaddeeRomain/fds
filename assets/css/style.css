@@ -611,7 +611,7 @@ label {
 	text-align: justify;
 }
 
-.pro-dev-description p > b {
+.pro-dev-description b {
 	font-weight: bold;
 }
 
