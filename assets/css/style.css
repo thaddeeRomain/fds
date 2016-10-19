@@ -412,6 +412,13 @@ body {
 	font-weight: 700;
 }
 
+.us-description-name span {
+	font-size: 20px;
+	font-family: Roboto;
+	font-weight: 400;
+	padding-top: 10px;
+}
+
 .us-description-bio {
 	font-family: Roboto;
 	line-height: 1.3;
