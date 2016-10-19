@@ -613,5 +613,8 @@ label {
 
 .pro-dev-description p > b {
 	font-weight: bold;
+}
 
+.pro-dev-description p > span {
+	color:#DB9500;
 }
