@@ -185,6 +185,11 @@ body {
   border-bottom: 3px solid #DB9500;
 }
 
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav >.open > a:focus, .navbar-default .navbar-nav >.open > a:hover {
+	color: #FFFFFF;
+	background-color: transparent;
+}
+
 .navbar.affix {
     position: fixed;
     top:0;
