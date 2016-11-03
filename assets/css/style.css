@@ -191,6 +191,11 @@ body {
 	background-color: transparent;
 }
 
+.affix .navbar-default .navbar-nav > .open > a, .affix .navbar-default .navbar-nav >.open > a:focus, .affix .navbar-default .navbar-nav >.open > a:hover {
+	color: #FFFFFF;
+	background-color: transparent;
+}
+
 .navbar.affix {
     position: fixed;
     top:0;
