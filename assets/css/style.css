@@ -183,12 +183,12 @@ body {
 .navbar-default .navbar-nav > li > a:hover {
 	color: #FFFFFF;
   border-bottom: 3px solid #DB9500;
+	cursor: pointer;
 }
 
 .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav >.open > a:focus, .navbar-default .navbar-nav >.open > a:hover {
 	color: #FFFFFF;
 	background-color: transparent;
-	cursor: pointer;
 }
 
 .navbar.affix {
