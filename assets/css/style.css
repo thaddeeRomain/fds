@@ -188,6 +188,7 @@ body {
 .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav >.open > a:focus, .navbar-default .navbar-nav >.open > a:hover {
 	color: #FFFFFF;
 	background-color: transparent;
+	cursor: pointer;
 }
 
 .navbar.affix {
@@ -209,6 +210,10 @@ body {
 
 .affix.navbar .navbar-brand {
 	color: #000;
+}
+
+.dropdown-menu li > a {
+	padding: 9px 20px;
 }
 
 
