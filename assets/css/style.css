@@ -613,6 +613,18 @@ label {
 		background: #FFF;
 }
 
+.pro-dev li > a {
+	padding: 10px 0px;
+	font-family: Roboto;
+	color: #444444;
+}
+
+.pro-dev li > a:active {
+	padding: 10px 0px;
+	font-family: Roboto;
+	color: #DB9500;
+}
+
 .pro-dev-title h2 {
 	font-size: 30px;
 	font-family: Roboto;
@@ -640,6 +652,8 @@ label {
 .pro-dev-description-list p {
 	margin-bottom: 10px;
 }
+
+
 
 /*.pro-dev-description::before {
 position: absolute;
