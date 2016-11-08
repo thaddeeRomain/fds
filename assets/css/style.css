@@ -191,8 +191,13 @@ body {
 	background-color: transparent;
 }*/
 
+.navbar-default.affix-top .navbar-nav  > .open > a, .navbar-default.affix-top .navbar-nav >.open > a:focus, .navbar-default.affix-top .navbar-nav >.open > a:hover {
+	color: #FFFFFF;
+	background-color: transparent;
+}
+
 .navbar-default.affix .navbar-nav  > .open > a, .navbar-default.affix .navbar-nav >.open > a:focus, .navbar-default.affix .navbar-nav >.open > a:hover {
-	color: red;
+	color: #000;
 	background-color: transparent;
 }
 
