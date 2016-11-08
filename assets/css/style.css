@@ -191,7 +191,7 @@ body {
 	background-color: transparent;
 }*/
 
-.navbar-default .navbar-nav .affix > .open > a, .navbar-default .navbar-nav .affix >.open > a:focus, .navbar-default .navbar-nav  .affix >.open > a:hover {
+.navbar-default.affix .navbar-nav  > .open > a, .navbar-default.affix .navbar-nav >.open > a:focus, .navbar-default.affix .navbar-nav >.open > a:hover {
 	color: red;
 	background-color: transparent;
 }
