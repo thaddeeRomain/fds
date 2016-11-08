@@ -226,7 +226,7 @@ body {
 /* --- Main --- */
 
 .jumbo {
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7)), url("../images/suit.jpg");
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7)), url("../images/desk.jpg");
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
 	background-size: cover;
