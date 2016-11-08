@@ -191,10 +191,10 @@ body {
 	background-color: transparent;
 }
 
-.affix .navbar-default .navbar-nav > .open > a, .affix .navbar-default .navbar-nav >.open > a:focus, .affix .navbar-default .navbar-nav >.open > a:hover {
+/*.affix .navbar-default .navbar-nav > .open > a, .affix .navbar-default .navbar-nav >.open > a:focus, .affix .navbar-default .navbar-nav >.open > a:hover {
 	color: red;
 	background-color: transparent;
-}
+}*/
 
 .navbar.affix {
     position: fixed;
@@ -207,6 +207,11 @@ body {
 .affix .nav > li > a {
    color: #000;
 }
+
+.affix .nav .open > li > a {
+   color: #000;
+}
+
 
 .affix .nav > li > a:hover {
 	color: #DB9500;
