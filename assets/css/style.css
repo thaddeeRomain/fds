@@ -186,15 +186,15 @@ body {
 	cursor: pointer;
 }
 
-.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav >.open > a:focus, .navbar-default .navbar-nav >.open > a:hover {
+/*.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav >.open > a:focus, .navbar-default .navbar-nav >.open > a:hover {
 	color: #FFFFFF;
 	background-color: transparent;
-}
+}*/
 
-/*.affix .navbar-default .navbar-nav > .open > a, .affix .navbar-default .navbar-nav >.open > a:focus, .affix .navbar-default .navbar-nav >.open > a:hover {
+.navbar-default .navbar-nav .affix > .open > a, .navbar-default .navbar-nav .affix >.open > a:focus, .navbar-default .navbar-nav  .affix >.open > a:hover {
 	color: red;
 	background-color: transparent;
-}*/
+}
 
 .navbar.affix {
     position: fixed;
