@@ -417,7 +417,7 @@ body {
 .us-head h2 {
 	font-family: Roboto;
 	font-size: 40px;
-	color: #DB9500;
+	color: #303940;
 	font-weight: 700;
 	line-height: 1.4;
 	display: inline-block;
@@ -432,7 +432,7 @@ body {
 
 .us-head p {
 	line-height: 1.3;
-	color: #DB9500;
+	color: #303940;
 	font-family: Roboto;
 	text-align: justify;
 }
