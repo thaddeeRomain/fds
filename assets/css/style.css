@@ -688,3 +688,11 @@ background-size: cover;
 .partnership-img {
 	padding: 20px 0px;
 }
+
+.partnership-title {
+	padding: 15px;
+	font-family: Roboto;
+	color: #DB9500;
+	font-size: 20px;
+	
+}
