@@ -13,7 +13,7 @@
   </head>
   <body>
     <div class="container">
-        <nav class="navbar navbar-default navbar-fixed-top affix" role="navigation">
+        <nav class="navbar navbar-default navbar-fixed-top affix" role="navigation" data-spy="affix" data-offset-top="70">
             <div class="container">
                 <!-- Brand and toggle get grouped for better mobile display -->
                 <div class="navbar-header page-scroll">
@@ -31,11 +31,25 @@
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav">
-                        <li><a class="page-scroll" href="index.html#main">Home</a></li>
-                        <li><a class="page-scroll" href="index.html#consulting">Consulting</a></li>
-                        <li><a class="page-scroll" href="index.html#digital">Digital services</a></li>
-                        <li><a class="page-scroll" href="index.html#us">About us</a></li>
-                        <li><a href="contact.html">Contact</a></li>
+                        <li><a class="page-scroll" href="#main">Home</a></li>
+                        <li><a class="page-scroll dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Consulting <span class="caret"></span></a>
+
+                          <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                              <li><a href="professionaldevelopment">Professional Development</a></li>
+                              <li><a href="highereducation">Higher Education</a></li>
+                              <li><a href="entrepreneurialdevelopment">Entrepreneurial Development</a></li>
+                              <li><a href="organizationaleffectiveness">Organizational Effectiveness</a></li>
+                            </ul>
+                        </li>
+                        <li><a class="page-scroll" dropdown-toggle id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Digital Services <span class="caret"></span></a>
+                          <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
+                            <li><a href="businessonline">Business Online</a></li>
+                            <li><a href="wirelessconnectivity">Wireless Connectivity</a></li>
+                            <li><a href="digitalidentitymanagement">Digital Identity Management</a></li>
+                            <li><a href="financetechnology">Finance Technology</a></li>
+                          </ul>
+                        <li><a class="page-scroll" href="#us">About us</a></li>
+                        <li><a href="contact">Contact</a></li>
                     </ul>
                 </div>
             </div>
