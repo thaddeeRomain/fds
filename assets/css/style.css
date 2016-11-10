@@ -270,6 +270,20 @@ body {
   padding: 30px;
 }
 
+.intro {
+	  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)), url("../images/desk.jpg");
+		background-position: 50% 50%;
+		background-repeat: no-repeat;
+		background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  height: 200px;
+	  width: 100%;
+	  display:flex;
+	  justify-content:center;
+	  align-items:center;
+}
+
 /* --- Consulting --- */
 
 .consulting {
