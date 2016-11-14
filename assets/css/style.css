@@ -329,10 +329,6 @@ body {
 	background-color: rgba(219, 149, 0, 1);
 }
 
-.consulting-content {
-	background-color:#F3F3F3;
-}
-
 .consulting-description h1 {
 	margin-bottom: 20px;
 	margin-top: 20px;
@@ -393,10 +389,6 @@ body {
 	font-weight: 400;
 	line-height: 1.4;
 	margin-top: 0px;
-}
-
-.digital-content {
-	background-color:#F3F3F3;
 }
 
 .digital-description h1 {
