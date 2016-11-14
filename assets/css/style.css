@@ -308,7 +308,7 @@ body {
 .consulting-head h3 {
 	font-family: Roboto;
 	font-size: 24px;
-	color: white ;
+	color: white;
 	line-height: 1.4;
 	margin-bottom: 10px;
 }
@@ -336,6 +336,7 @@ body {
 	font-size: 23px;
 	font-weight: 500;
 	line-height: 1.2;
+	color:white;
 }
 
 .consulting-description p {
