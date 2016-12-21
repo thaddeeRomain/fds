@@ -15,10 +15,10 @@ $('#btn-jumbo').on('click', function () {
 });
 
 $('#dev').on('click', function () {
-  $(".dev").toggleClass("visible");
+  $(".dev").toggleClass("hidden");
 });
 
 $('#mana').on('click', function () {
-  $(".mana").toggleClass("visible");
+  $(".mana").toggleClass("hidden");
 });
 
