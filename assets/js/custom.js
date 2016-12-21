@@ -15,7 +15,7 @@ $('#btn-jumbo').on('click', function () {
 });
 
 $('#dev').on('click', function () {
-  $(".dev").toggleClass("hidden");
+  $(".dev").toggleClass("visible");
 });
 
 

@@ -724,6 +724,8 @@ background-size: cover;
 
 }
 
-
+.visible {
+  display:block;
+}
 
 
