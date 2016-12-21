@@ -18,4 +18,7 @@ $('#dev').on('click', function () {
   $(".dev").toggleClass("visible");
 });
 
+$('#mana').on('click', function () {
+  $(".mana").toggleClass("visible");
+});
 
