@@ -10,6 +10,6 @@ $('#back-top').on('click', function () {
 
 $('#btn-jumbo').on('click', function () {
   $("html, body").animate({
-     scrollTop: $("#consulting").offset().top},'slow');
+     scrollTop: $("#digital").offset().top},'slow');
      return false;
 });
