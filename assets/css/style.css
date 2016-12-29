@@ -587,8 +587,7 @@
  background-color: #00ACEE!important;
 }
 
-
-i.fa.fa-twitter:before {
+i.fa.fa-twitter::before {
   right: 10px;
   color: white;
   top: 10px;
