@@ -513,7 +513,9 @@
   top: 11px;
   font-size: 20px;
   color: white;
+  position: absolute;
 }
+
 
 .footer .twitter {
  background-color: #00ACEE!important;
@@ -524,6 +526,8 @@
   color: white;
   top: 10px;
   font-size: 20px;
+  position: absolute;
+
 }
 
 .footer .instagram {
@@ -548,6 +552,8 @@
 .footer p {
   color: #aeaeae;
   font-size: 13px;
+  margin-bottom: 20px;
+  font-family: Roboto;
 }
 
 .footer img {
