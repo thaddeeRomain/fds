@@ -604,14 +604,6 @@ i.fa.fa-instagram:before {
   font-size: 20px;
 }
 
-i.fa.fa-twitter:before {
-  position: absolute;
-  right: 11px;
-  color: white;
-  top: 10px;
-  font-size: 20px;
-}
-
 .footer .icon {
   display: inline-block;
   width: 40px;
