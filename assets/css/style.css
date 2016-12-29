@@ -604,7 +604,7 @@ i.fa.fa-instagram:before {
   font-size: 20px;
 }
 
-footer i.fa.fa-twitter:before {
+i.fa.fa-twitter:before {
   position: absolute;
   right: 11px;
   color: white;
