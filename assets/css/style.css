@@ -576,6 +576,14 @@
  background-color: #3B5998!important;
 }
 
+.fa-twitter:before {
+  position:absolute;
+  top:10px;
+  font-size:20px;
+  color:white;
+  right: 12px;
+}
+
 .fa-facebook-f:before, .fa-facebook:before {
   right: 14px;
   top: 11px;
