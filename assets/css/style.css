@@ -413,7 +413,8 @@
   line-height: 1.3;
   color: #303940;
   font-family: Roboto;
-  text-align: justify;
+/*  text-align: justify;
+*/
 }
 
 
@@ -587,7 +588,7 @@
  background-color: #00ACEE!important;
 }
 
-i.fa.fa-twitter::before {
+.fa-twitter:before {
   right: 10px;
   color: white;
   top: 10px;
