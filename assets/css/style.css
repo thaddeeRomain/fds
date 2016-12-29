@@ -494,6 +494,20 @@ body {
 	padding-bottom: 50px;
 }
 
+.footer h3 {
+  color: #fff;
+  margin-bottom: 35px;
+  font-size: 20px;
+  text-transform: uppercase;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.footer p {
+  color: #aeaeae;
+  font-size: 13px;
+}
+
 .footer img {
 	margin-bottom: 20px;
 }
@@ -727,5 +741,7 @@ background-size: cover;
 .visible {
   display:block;
 }
+
+
 
 
