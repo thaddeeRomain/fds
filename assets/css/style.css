@@ -679,6 +679,10 @@ i.fa.fa-instagram:before {
 	margin-top: 10px;
 }
 
+.footer p > strong > a {
+  color: #aeaeae;;
+}
+
 
 /* --- Contact Page --- */
 
