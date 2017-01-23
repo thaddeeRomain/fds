@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Fiatope Digital Solution</title>
+  <link rel="icon" href="assets/logos/favicon.png" type="image/png" sizes="16x16">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Fiatope Digital Solution">
+  <meta name="keywords" content="Fiatope Digital Solution">
+  <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all" />
+  <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500" rel="stylesheet" type="text/css">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+  <link href="assets/css/style.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+
+<body>
+  <div class="container">
+    <nav class="navbar navbar-default navbar-fixed-top affix" role="navigation" data-spy="affix" data-offset-top="70">
+      <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header page-scroll">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand page-scroll" href="index">
+            <!-- <img src="assets/logos/logo.png" height="35" width="35" alt="Mu" /> -->
+            Fiatope Digital Solutions
+          </a>
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse navbar-right">
+          <ul class="nav navbar-nav">
+            <li><a class="page-scroll" href="index">Home</a></li>
+            <li><a class="page-scroll dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Digital Services <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="businessonline">Business Online</a></li>
+                <li><a href="wirelessconnectivity">Wireless Connectivity</a></li>
+                <li><a href="digitalidentitymanagement">Digital Identity Management</a></li>
+                <li><a href="financetechnology">Finance Technology</a></li>
+              </ul>
+            </li>
+            <li><a class="page-scroll dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Consulting <span class="caret"></span></a>
+
+              <ul class="dropdown-menu">
+                <li><a href="professionaldevelopment">Professional Development</a></li>
+                <li><a href="highereducation">Higher Education</a></li>
+                <li><a href="entrepreneurialdevelopment">Entrepreneurial Development</a></li>
+                <li><a href="organizationaleffectiveness">Organizational Effectiveness</a></li>
+              </ul>
+            </li>
+            <li><a class="page-scroll" href="index#us">About us</a></li>
+            <li><a href="contact">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <!-- /.navbar-collapse -->
+  </div>
+  <div class="main" id="main">
+    <div class="intro">
+    </div>
+  </div>
+  <div class="pro-dev">
+    <div class="container">
+      <div class="col-md-12">
+        <div class="pro-dev-title">
+          <h2>Professional Development</h2>
+        </div>
+        <div class="pro-dev-description">
+          We have an always evolving training offer.
+          . It is organized around <b>2 modules :</b><br><br>
+           <b>: team management</b>  <b>personal development at preparation for recruitment</b>.<br><br>
+          These modules are not intended to be merely taught. Our intervenants/speakers generally comment real situation and bring participants to ask theirselves the right questions in the face of similar situations. Thus, the latter are more aware of the problems than if they were to be dispensed with a simple recital of pre-made formulas that would not being appropriate to their individual situation.<br><br>
+
+          <b id="mana">Management </b><span class="caret"></span><br><br>
+          <div class="mana hidden pro-dev-description-list">
+            <p><span> ⟶ </span> Measuring the social atmosphere and acting</p>
+            <p><span> ⟶ </span> Managing motivation </p>
+            <p><span> ⟶ </span> Cropping your staff</p>
+            <p><span> ⟶ </span> Individual annual interview</p>
+            <p><span> ⟶ </span> Teambuilding </p>
+            <p><span> ⟶ </span> The animation and the programming of the activity</p>
+            <p><span> ⟶ </span> Giving meaning to staff and explaining company decisions </p>
+            <p><span> ⟶ </span> Benchmarking </p>
+            <p><span> ⟶ </span> The managerial link </p>
+            <p><span> ⟶ </span> Arguing to be given additional staff </p>
+            <p><span> ⟶ </span> Recruitment </p>
+            <p><span> ⟶ </span> Welcoming a collaborator</p>
+            <p><span> ⟶ </span>The team meeting </p>
+            <p><span> ⟶ </span> Change the results of the team with the staff</p>
+            <p><span> ⟶ </span> Communicate on the strategic objectives of the entity you belong to</p>
+            <p><span> ⟶ </span> A break in the day-to-day business: the strategic seminar</p>
+            <p><span> ⟶ </span> Managing skills</p>
+            <p><span> ⟶ </span> Managing remuneration</p>
+            <p><span> ⟶ </span> Managing Talent and Experts</p>
+            <p><span> ⟶ </span> Managing Talent and Experts</p>
+            <p><span> ⟶ </span> The professional development of employees</p>
+            <p><span> ⟶ </span> Identifying your management style</p>
+            <p><span> ⟶ </span> Multi-cultural management</p>
+            <p><span> ⟶ </span> The 360° Check</p>
+            <p><span> ⟶ </span> Developing collaborators</p>
+            <p><span> ⟶ </span> Management and Culture / Corporate Policy</p>
+            <p><span> ⟶ </span> Giving confidence</p>
+            <p><span> ⟶ </span> protecting your troops</p>
+            <p><span> ⟶ </span> Reporting to your Boss</p>
+            <p><span> ⟶ </span> Working transversally (HR, Controlling, Program Management)</p>
+            <p><span> ⟶ </span> </p>
+            <p><span> ⟶ </span> </p>
+            <p><span> ⟶ </span> </p>
+            <p><span> ⟶ </span> </p>
+            <p><span> ⟶ </span> </p>
+            <p><span> ⟶ </span> </p>
+            <p><span> ⟶ </span> </p>
+            <p><span> ⟶ </span> </p>
+            <p><span> ⟶ </span> </p><br><br>
+          </div>
+
+          <b id="dev">Personal Development </b><span class="caret"></span><br><br>
+          <div class="dev hidden pro-dev-description-list">
+            <p><span> ⟶ </span>"Being more efficient at work"</p>
+            <p><span> ⟶ </span>Developing self-confidence</p>
+            <p><span> ⟶ </span>Going to others</p>
+            <p><span> ⟶ </span>Taking the floor</p>
+            <p><span> ⟶ </span>Learning from others</p>
+            <p><span> ⟶ </span>Keeping one’s motivation high</p>
+            <p><span> ⟶ </span>Getting skilled</p>
+            <p><span> ⟶ </span>Being a high achiever</p>
+            <p><span> ⟶ </span>Getting organized</p>
+            <p><span> ⟶ </span>Taking stock</p>
+            <p><span> ⟶ </span>Letting go</p>
+            <p><span> ⟶ </span>Reporting on colleague fault</p>
+            <p><span> ⟶ </span>Taking responsibility</p>
+            <p><span> ⟶ </span>Identifying your personal profile</p>
+          </div>
+     
+          <b id="dev">Preparation to recruitment </b><span class="caret"></span><br><br>
+          <div class="dev hidden pro-dev-description-list">
+            <p><span> ⟶ </span>Identify your career objective</p>
+            <p><span> ⟶ </span>Make your resume</p>
+            <p><span> &nbsp;&nbsp;&nbsp;<li></span>The Must Have</p></li>
+            <p><span> <li></span>The Must Not Have</p></li>
+            <p><span> <li></span>A resume at your image</p></li>
+            <p><span> <li></span>The format</p></li>
+            <p><span> <li></span>Where to have it</p></li>
+            <p><span> <li></span>1</p></li>
+            <p><span> <li></span>2</p></li>
+            <p><span> ⟶ </span>Successful job search</p>
+            <p><span> ⟶ <ul></span>Preparing an interview</p>
+            <p><span> <li></span></p></li>
+            <p><span> <li></span></p></li>
+            <p><span> <li></span></p></li>
+            <p><span> <li></span></p></li>
+            <p><span> <li></span></p></li>
+            <p><span> <li></span></p></li>
+            <p><span> <li></span></p></li></ul>
+            <p><span> ⟶ </span>Reporting on colleague fault</p>
+            <p><span> ⟶ </span>Taking responsibility</p>
+            <p><span> ⟶ </span>Identifying your personal profile</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="separator">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <hr>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="partnership">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="row">
+            <div class="partnership-title">
+              <h3>Partners</h3>
+            </div>
+          </div>
+          <div class="row">
+            <div class="Partnership-content">
+              <div class="col-sm-4">
+                <div class="partnership-img partner-one">
+                  <img class="img-responsive" src="assets/images/desk.jpg" >
+                  <!-- Afficher ici l'image du partenaire -->
+                </div>
+                <div class="partnership-description">
+                  <!-- Ajouter ici la description du partenaire -->
+                </div>
+              </div>
+              <div class="col-sm-4">
+                <div class="partnership-img partner-two">
+                  <img class="img-responsive" src="assets/images/desk.jpg" >
+                  <!-- Afficher ici l'image du partenaire -->
+                </div>
+                <div class="partnership-description">
+                  <!-- Ajouter ici la description du partenaire -->
+                </div>
+              </div>
+              <div class="col-sm-4">
+                <div class="partnership-img partner-three">
+                  <img class="img-responsive" src="assets/images/desk.jpg" >
+
+                  <!-- Afficher ici l'image du partenaire -->
+                </div>
+                <div class="partnership-description">
+                  <!-- Ajouter ici la description du partenaire -->
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+</div>
+<!-- Footer -->
+  <div class="footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <h3>ABOUT FIATOPE DIGITAL SOLUTIONS</h3>
+          <p>Digital solutions & Consulting for an emerging Africa</p>
+          <div class="footer-social">
+            <div class="icon facebook">
+              <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+            </div>
+            <div class="icon twitter">
+              <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+            </div>
+            <div class="icon instagram">
+              <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+            </div>
+
+          </div>
+        </div>
+        <div class="col-md-3">
+          <h3>CONTACT</h3>
+          <p><i class="fa fa-map-maker"></i><strong>Address: <br></strong>
+            <b>Office Building 2nd floor</b> <br>
+            <b>34KN 41st Street Kiyovu </b><br>
+            <b>Kigali, Rwanda</b></p>
+          <p><i class="fa fa-map-maker"></i><strong>Office : + 250 727 444 568 / + 33 6 08 27 30 08</strong></p>
+          <p><i class="fa fa-map-maker"></i><strong>Mail us : <a href="mailto:contact@fiatope.com">contact@fiatope.com</a></strong></p>
+        </div>
+        <div class="col-md-3">
+          <h3>NEWSLETTER</h3>
+          <p>Subscribe to our Newsletter</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="text-center">
+          <p class="margin-top-30">
+          Copyright © 2016 Fiatope Digital Solution All Rights Reserved.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>  <div class="container">
+    <div class="col-md-12 text-center">
+      <ul class="footer-menu">
+        <li><a href="index">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="jobs">Jobs</a></li>
+        <li><a href="#">Terms</a></li>
+        <li><a href="#">Privacy</a></li>
+      </ul>
+      <div class="footer-text">
+        <p>
+          Copyright © 2016 Fiatope Digital Solution All Rights Reserved.
+        </p>
+      </div>
+    </div>
+  </div>
+</body>
+<!-- Jquery and Js Plugins -->
+<script type="text/javascript" src="assets/js/jquery-2.1.1.js"></script>
+<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="assets/js/custom.js"></script>
+
+</html>

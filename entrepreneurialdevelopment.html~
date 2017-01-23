@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Fiatope Digital Solution</title>
+    <link rel="icon" href="assets/logos/favicon.png" type="image/png" sizes="16x16">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Fiatope Digital Solution">
+    <meta name="keywords" content="Fiatope Digital Solution">
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500" rel="stylesheet" type="text/css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+    <link href="assets/css/style.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+
+<body>
+  <div class="container">
+      <nav class="navbar navbar-default navbar-fixed-top affix" role="navigation" data-spy="affix" data-offset-top="70">
+          <div class="container">
+              <!-- Brand and toggle get grouped for better mobile display -->
+              <div class="navbar-header page-scroll">
+                  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                  </button>
+                  <a class="navbar-brand page-scroll" href="index">
+                      <!-- <img src="assets/logos/logo.png" height="35" width="35" alt="Mu" /> -->
+                      Fiatope Digital Solutions
+                  </a>
+              </div>
+              <!-- Collect the nav links, forms, and other content for toggling -->
+              <div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
+                  <ul class="nav navbar-nav">
+                      <li><a class="page-scroll" href="index">Home</a></li>
+                      <li><a class="page-scroll dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Digital Services <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                          <li><a href="businessonline">Business Online</a></li>
+                          <li><a href="wirelessconnectivity">Wireless Connectivity</a></li>
+                          <li><a href="digitalidentitymanagement">Digital Identity Management</a></li>
+                          <li><a href="financetechnology">Finance Technology</a></li>
+                        </ul>
+                      </li>
+                      <li><a class="page-scroll dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Consulting <span class="caret"></span></a>
+
+                        <ul class="dropdown-menu">
+                            <li><a href="professionaldevelopment">Professional Development</a></li>
+                            <li><a href="highereducation">Higher Education</a></li>
+                            <li><a href="entrepreneurialdevelopment">Entrepreneurial Development</a></li>
+                            <li><a href="organizationaleffectiveness">Organizational Effectiveness</a></li>
+                          </ul>
+                      </li>
+                      <li><a class="page-scroll" href="index#us">About us</a></li>
+                      <li><a href="contact">Contact</a></li>
+                  </ul>
+              </div>
+          </div>
+      </nav>
+      <!-- /.navbar-collapse -->
+  </div>
+  <div class="main" id="main">
+      <div class="intro">
+      </div>
+  </div>
+    <div class="pro-dev">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="pro-dev-title">
+              <h2>Entrepreneurial Development</h2>
+            </div>
+            <div class="pro-dev-description">
+
+               At Fiatope Consulting, we give entrepreneurs the appropriate <b>digital tools</b>to address each phase of the development of their project and accompany them for their participatory financing :<br><br>
+                <div class="pro-dev-description-list">
+                  <p><span> ⟶ </span> Setting up your business plan</p>
+                  <p><span> ⟶ </span> Know your entrepreneur profile</p>
+                  <p><span> ⟶ </span> Using digital to do business </p>
+                </div>
+                <br>
+                <b>From idea to proof of concept</b><br><br>
+                If the idea is the foundation of any entrepreneurial project, it is still necessary to ensure the viability of such a project, that is to say, the ability to build a solid economic model based on the idea. Fiatope accompanies you to identify the right digital tool according to the maturation stage of your idea. <br>
+                Before throwing oneself into the water, and spending a fortune to develop and launch ones idea or project, it is crucial to make sure beforehand that the underlying concept will meet the customers interest. For that, nothing better than to test the concept with a small panel of potential customers. This is called a "proof of concept". Will future customers understand the service? Is it easy and convenient to use? These are some of the questions that the entrepreneur must ask himself <br>
+                It goes without saying that not all ideas can be tested on a small scale. However, whenever possible, it is essential to start with a proof of concept.<br>
+                Many people who wish to start a business unfortunately stop at the idea stage, simply due to the lack of opportunity to put up a real proof of their idea, or lack of knowledge that this is possible with little financial means. <br>
+                Yet today there are many ways, exploiting open source technologies in particular, to achieve a proof of concept or develop its idea first on a small scale.<br>
+                Fiatope analyzes with you the best approach to test your concept and validate its relevance thanks to digital technologies. <br>
+                Finally this stage is the best time to think about your economic model and validate it. <br><br>
+                <b>Development</b><br><br>
+                Your concept has been tested on a very small scale (some people have tried it) and it is convincing with users and possibly investors. Moreover, you have validated at least your economic model. You must now move from concept to commercial product. <br>
+                The development phase comes next. This is a crucial phase in the life of your project. Indeed, the product design choices you made with your team will be decisive for the future. The technical skills that you are going to surround are going to have to be selected with great care and the technologies that will constitute the framework of your system will have to be chosen with maximal pertinence.<br>
+                Fiatope lets you benefit from all the expertise of its consultants in the field and recommends you the right digital tools to design the best product possible. <br><br>
+                <b>Service Launch</b><br><br>
+                Be careful, it's not because development is finished that you can launch. A surprising number of additional actions await you. They should be carried out with utmost care and, once again, using the appropriate digital tools.
+After having legally registered your activity, you will have to find a brand name (if this has not been done upstream), reserve a domain name for your presence on the internet and your email communication, protect your concept if necessary, prepare yourself to invest social networks, find a hosting environment for your services to the extent that these are carried out online ...
+ <br>
+                With Fiatope, you can ensure that you are able to achieve these milestones thanks to the practice we have developed and the launch of our own projects. <br>
+
+                <br><br>
+                <a class="btn btn-success btn-send" href="contact">Contact us</a>
+                </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+    <div class="separator">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <hr>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="partnership">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <div class="row">
+                <div class="partnership-title">
+                  <h3>Partners</h3>
+                </div>
+              </div>
+              <div class="row">
+                <div class="Partnership-content">
+                  <div class="col-sm-4">
+                    <div class="partnership-img partner-one">
+                     <img class="img-responsive" src="assets/images/Ensicaen.jpg" alt="" height="120" width="180" >
+                      <!-- Afficher ici l'image du partenaire -->
+                    </div>
+                    <div class="partnership-description">
+                      <!-- Ajouter ici la description du partenaire -->
+                    </div>
+                  </div>
+                  <div class="col-sm-4">
+                    <div class="partnership-img partner-two">
+                      <img class="img-responsive" src="assets/images/irenn.png" alt="" height="120" width="180" >
+                      <!-- Afficher ici l'image du partenaire -->
+                    </div>
+                    <div class="partnership-description">
+                      <!-- Ajouter ici la description du partenaire -->
+                    </div>
+                  </div>
+                  <div class="col-sm-4">
+                    <div class="partnership-img partner-three">
+                     <img class="img-responsive" src="assets/images/logo.jpg"alt="" height="120" width="180" >
+
+                      <!-- Afficher ici l'image du partenaire -->
+                    </div>
+                    <div class="partnership-description">
+                      <!-- Ajouter ici la description du partenaire -->
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+    </div>
+    <!-- Footer -->
+  <div class="footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <h3>ABOUT FIATOPE DIGITAL SOLUTIONS</h3>
+          <p>Digital solutions & Consulting for an emerging Africa</p>
+          <div class="footer-social">
+            <div class="icon facebook">
+              <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+            </div>
+            <div class="icon twitter">
+              <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+            </div>
+            <div class="icon instagram">
+              <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+            </div>
+
+          </div>
+        </div>
+        <div class="col-md-3">
+          <h3>CONTACT</h3>
+          <p><i class="fa fa-map-maker"></i><strong>Address: <br></strong>
+            <b>Office Building 2nd floor</b> <br>
+            <b>34KN 41st Street Kiyovu </b><br>
+            <b>Kigali, Rwanda</b></p>
+          <p><i class="fa fa-map-maker"></i><strong>Office : + 250 727 444 568 / + 33 6 08 27 30 08</strong></p>
+          <p><i class="fa fa-map-maker"></i><strong>Mail us : <a href="mailto:contact@fiatope.com">contact@fiatope.com</a></strong></p>
+        </div>
+        <div class="col-md-3">
+          <h3>NEWSLETTER</h3>
+          <p>Subscribe to our Newsletter</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="text-center">
+          <p class="margin-top-30">
+          Copyright © 2016 Fiatope Digital Solution All Rights Reserved.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+<!-- Jquery and Js Plugins -->
+<script type="text/javascript" src="assets/js/jquery-2.1.1.js"></script>
+<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="assets/js/custom.js"></script>
+
+</html>
