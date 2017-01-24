@@ -1,24 +1,28 @@
-// scroll body to 0px on click
-$('#back-top').on('click', function () {
-  $('#back-top').tooltip('hide');
-  $('body,html').animate({
-    scrollTop: 0
-  }, 1500);
-  return false;
-});
-
-
-$('#btn-jumbo').on('click', function () {
-  $("html, body").animate({
-   scrollTop: $("#digital").offset().top},'slow');
-  return false;
-});
-
-$('#dev').on('click', function () {
-  $(".dev").toggleClass("hidden");
-});
-
-$('#mana').on('click', function () {
-  $(".mana").toggleClass("hidden");
-});
-
+// scroll body to 0px on click
+$('#back-top').on('click', function () {
+  $('#back-top').tooltip('hide');
+  $('body,html').animate({
+    scrollTop: 0
+  }, 1500);
+  return false;
+});
+
+
+$('#btn-jumbo').on('click', function () {
+  $("html, body").animate({
+   scrollTop: $("#digital").offset().top},'slow');
+  return false;
+});
+
+$('#dev').on('click', function () {
+  $(".dev").toggleClass("hidden");
+});
+
+$('#personal').on('click', function () {
+  $(".personal").toggleClass("hidden");
+});
+
+$('#mana').on('click', function () {
+  $(".mana").toggleClass("hidden");
+});
+
