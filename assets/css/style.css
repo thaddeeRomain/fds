@@ -67,6 +67,7 @@ body {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
+
 .no-padding {
   padding: 0; }
 
@@ -742,6 +743,9 @@ background-size: cover;
   display: block; }
 
 /* #############--- hadad update --- ##############  */
+@font-face {
+  font-family: "googlesans";
+  src: url("../fonts/GoogleSans-regular.ttf"); }
 /* ------------------- pre-requisite ------------------------- */
 .color-primary {
   background: #db9500; }
@@ -1732,7 +1736,10 @@ background-size: cover;
   #update_dus #digital .card {
     border: none; }
     #update_dus #digital .card .card-element {
-      box-shadow: 8px 10px 20px 2px rgba(46, 61, 73, 0.15); }
+      box-shadow: 5px 5px 25px 0px rgba(46, 61, 73, 0.2); }
+      #update_dus #digital .card .card-element .digital-description p {
+        font-family: "Montserrat", sans-serif;
+        font-weight: 500; }
   #update_dus .consulting-head h2 {
     font-family: "Montserrat", sans-serif; }
   #update_dus #consulting .card-outline {
@@ -1741,6 +1748,8 @@ background-size: cover;
     background: #263038;
     max-height: 500px !important;
     border-radius: 7px; }
+    #update_dus #consulting .card-outline p {
+      font-family: "googlesans"; }
     @media (min-width: 576px) {
       #update_dus #consulting .card-outline .mx-auto {
         margin-left: 20px; } }
@@ -1866,10 +1875,6 @@ background-size: cover;
   .go-online .btn-send {
     margin-top: 1rem;
     border-radius: 2px; }
-
-.folo{
-    max-height: 20px !important;
-  }
 
 /* ############################################################################################## */
 
