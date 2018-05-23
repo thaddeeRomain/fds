@@ -1749,7 +1749,7 @@ background-size: cover;
     max-height: 500px !important;
     border-radius: 7px; }
     #update_dus #consulting .card-outline p {
-      font-family: "googlesans"; }
+      font-family: "googlesans", "Montserrat", sans-serif, sans-serif; }
     @media (min-width: 576px) {
       #update_dus #consulting .card-outline .mx-auto {
         margin-left: 20px; } }
